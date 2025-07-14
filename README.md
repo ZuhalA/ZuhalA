@@ -2,7 +2,7 @@
 
 **Data Scientist | Machine Learning & NLP Enthusiast | Passionate About Cognition & Human Insight**
 
-I'm a recent **Data Science graduate** with a **minor in Cognitive Science**, focused on data-driven decision making and interpretable machine learning models. I enjoy working with structured and unstructured data, and I’m especially interested in projects at the intersection of data, busness, human behavior, and intelligent systems.
+I'm a recent **Data Science graduate** with a **minor in Cognitive Science**, focused on data-driven decision making and interpretable machine learning models. I enjoy working with structured and unstructured data, and I’m especially interested in projects at the intersection of data, business, human behavior, and intelligent systems.
 
 ---
 
@@ -17,7 +17,7 @@ Forecasted regional housing prices using Metro. Zillow’s Home Value Index data
 
 ---
 
-### [Detecing YouTube Medical Information Accuracy (RAG + LLM)](https://github.com/ZuhalA/FactChecking_YouTubeMedicalVideos)
+### [Detecting YouTube Medical Information Accuracy (RAG + LLM)](https://github.com/ZuhalA/FactChecking_YouTubeMedicalVideos)
 Developed a Retrieval-Augmented Generation system to assess health claims in YouTube videos.  
 - Extracted transcripts and medical claims using Mistral-7B  
 - Retrieved evidence via SerpAPI from trusted sources (NIH, CDC, Mayo Clinic)  
