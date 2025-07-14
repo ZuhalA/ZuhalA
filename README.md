@@ -27,6 +27,6 @@ Developed a Retrieval-Augmented Generation system to assess health claims in You
 ---
 
 ## My Technical Interests
-Machine learning, natural language processing, data-driven business, cognitive science, and applied data analysis.
+**Machine learning, natural language processing, data-driven business, cognitive science, and applied data analysis.**
 
 
