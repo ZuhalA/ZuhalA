@@ -2,7 +2,7 @@
 
 **Data Scientist | Machine Learning & NLP Enthusiast | Passionate About Cognition & Human Insight**
 
-I'm a recent **Data Science** graduate with a **minor in Cognitive Science**, focused on data-driven decision making and interpretable machine learning models. I enjoy working with structured and unstructured data, and I’m especially interested in projects at the intersection of data, busness, human behavior, and intelligent systems.
+I'm a recent **Data Science graduate** with a **minor in Cognitive Science**, focused on data-driven decision making and interpretable machine learning models. I enjoy working with structured and unstructured data, and I’m especially interested in projects at the intersection of data, busness, human behavior, and intelligent systems.
 
 ---
 
