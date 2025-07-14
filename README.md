@@ -22,7 +22,7 @@ Developed a Retrieval-Augmented Generation system to assess health claims in You
 - Extracted transcripts and medical claims using Mistral-7B  
 - Retrieved evidence via SerpAPI from trusted sources (NIH, CDC, Mayo Clinic)  
 - Evaluated and explained claim accuracy using large language models  
-- Focused on combating misinformation with verifiable output
+- Focused on detecting misleading claims with verifiable output
 
 ---
 
