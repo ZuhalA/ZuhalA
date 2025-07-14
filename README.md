@@ -13,7 +13,7 @@ Forecasted regional housing prices using Metro. Zillow’s Home Value Index data
 - Built and improved regression models using time-based features (lags, rolling averages)  
 - Boosted performance from R² = -0.4 to 0.99, achieving ~99% accuracy  
 - Visualized regional trends with Plotly and Seaborn  
-- Queryable through SQLite for dynamic analytics  
+- Queryable through SQLite (SQL)for dynamic analytics  
 
 ---
 
