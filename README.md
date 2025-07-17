@@ -8,7 +8,7 @@ I'm a recent **Data Science graduate** with a **minor in Cognitive Science**, fo
 
 ##  Projects
 
-### [Metro. Zillow Home Value Index Forecasting](https://github.com/Zuhal/ZillowHomeValueIndex_prediction)
+### [Metro. Zillow Home Value Index Forecasting](https://github.com/ZuhalA/ZillowHomeValueIndex_prediction)
 Forecasted regional housing prices using Metro. Zillow’s Home Value Index data (2000–2025).  
 - Built and improved regression models using time-based features (lags, rolling averages)  
 - Boosted performance from R² = -0.4 to 0.99, achieving ~99% accuracy  
