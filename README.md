@@ -17,7 +17,7 @@ Forecasted regional housing prices using Metro. Zillow’s Home Value Index data
 
 ---
 
-### [Detecting YouTube Medical Information Accuracy (RAG + LLM)](https://github.com/ZuhalA/FactChecking_YouTubeMedicalVideos)
+### [Factchecking YouTube Medical Information Accuracy (RAG + LLM)](https://github.com/ZuhalA/FactChecking_YouTubeMedicalVideos)
 Developed a Retrieval-Augmented Generation system to assess health claims in YouTube videos.  
 - Extracted transcripts and medical claims using Mistral-7B  
 - Retrieved evidence via SerpAPI from trusted sources (NIH, CDC, Mayo Clinic)  
